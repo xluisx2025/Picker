@@ -15,7 +15,7 @@ pkg install python3
 pkg install git
 
 
-git clone https://github.com/xluisx2025/Picker.git
+git clone https://github.com/xluisx2025/Picker
  
 cd Picker
 
